@@ -1,10 +1,14 @@
 # PureLight: Learning Complex Luminaires with Light Tracing
 
-### [Paper](https://arxiv.org/abs/2606.04319)
+### [Paper](https://arxiv.org/abs/2606.04319) | [Project Page](https://pedrovfigueiredo.github.io/projects/purelight/index.html)
 
 This is the official repository for the paper "PureLight: Learning Complex Luminaires with Light Tracing" by Pedro Figueiredo, Zixuan Li, Beibei Wang, Miloš Hašan, and Nima Khademi Kalantari, to be presented at **SIGGRAPH Asia 2026 (Conference Papers)**.
 
 **Code will be available soon.**
+
+## News
+
+  * 2026.09.14: Repo is released.
 
 ## Citation
 
